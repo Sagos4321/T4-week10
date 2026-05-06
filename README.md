@@ -1,4 +1,4 @@
-# T4-weel10 - Aplikasi CRUD PHP MySQL
+# T4-week10 - Aplikasi CRUD PHP MySQL
 
 Nama    : M. Sagos
 NIM     : F1D02410070
